@@ -27,25 +27,25 @@
   <tr>
     <div width="920">
       <h1 align="center">Executive Summary</h1>
-      <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
+      <h3 align="center">Total Revenye Analysis (2019–2022)</h3>
       <div align="center">
         <img width="100%" height="400px" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Total%20Sales.png" />
       </div>
       <td width="460" valign="top">
         <ol>
           <li>
-            <strong>Revenue Growth and Peak Performance:</strong>
+            <strong>Revenue Performance & Peak Sales</strong>
             <ul>
-              <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
-              <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
-              <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
+              <li>The strongest year by far was 2020 with a total of over <strong>$10.1M</strong>. As a result of the COVID-19 pandemic we can observe a steady quarterly revenue increase.</li>
+              <li>The best performing period is Q4 2020 with a total of more than <strong>$1.25M</strong> in December.</li>
+              <li>A meaningful drop in revenue occurrs in Q2 2021 afterwhich the sales trend remains steady approximately around <strong>$2.2M</strong> until the beggining of 2022, this would be the breaking point where we can see a constant downward trend. </li>
             </ul>
           </li>
           <li>
-            <strong>Declining Trend in 2022</strong>
+            <strong>Revenue Break Point: Declining Trend 2022</strong>
             <ul>
-              <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
-              <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
+              <li>Q4 of 2022 takes heavy turn as sales reached their overall lowest points, with October<strong>($178K)</strong>, November<strong>($208K)</strong> and December<strong>($262K)</strong> significantly generating less revenue than previous years.</li>
+              <li>Revenue declined sharply toward the end of Q3 2022 and throughout Q4, indicating a break from historical seasonal performance. This deviation suggests the impact of internal operational changes, shifts in customer demand, and broader market conditions, warranting deeper investigation to isolate primary drivers. </li>
             </ul>
           </li>
         </ol>
@@ -53,18 +53,18 @@
       <td width="460" valign="top">
         <ol start="3">
           <li>
-            <strong>Quarterly Insights & Seasonal Trends</strong>
+            <strong>Quarterly Trends & Insights</strong>
             <ul>
-              <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
-              <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
+              <li>Historical performance shows that Q3 and Q4 consistently outperform other quarters, aligning with seasonal consumer demand and intensified marketing activity. During these peak periods, marketing channel utilization shifts notably, with Affiliate traffic emerging as the top contributor (26.6%), followed closely by Direct traffic (25.6%).</li>
+              <li>The start of 2022 had above average sales with January($705), however the rest of 2022 had a continual decline in revenue with Q1 & Q2 maintaining relatevly close to the average. From Q3 onwards the revenue drastically droped.</li>
             </ul>
           </li>
           <li>
-            <strong>Key Takeaways & Recommendations</strong>
+            <strong>Key Points: Next Steps</strong>
             <ul>
-              <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
-              <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
-              <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum.</li>
+              <li>Analyze the drivers behind the 2022 performance decline, including shifts in market demand, competitive pressure, and internal operational factors.</li>
+              <li>Identify and replicate patterns from historically strong performance periods, particularly high-performing Q3 and Q4 cycles, to optimize marketing timing & promotional effectiveness.</li>
+              <li>Reevaluate the 2023 commercial strategy with a focus on pricing structure, promotional design, and customer engagement initiatives to stabilize performance and restore growth momentum.</li>
             </ul>
           </li>
         </ol>
