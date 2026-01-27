@@ -74,11 +74,12 @@
   </tr>
 </table>
 <h2 align="center">Entitiy Relationship Diagram - ERD</h2>
-<body>The database structure as seen below consists of four tables(with additional views): orders, customers, geo_lookup, order_status, with a total row count of 108,127 records.</body>
+<h4>The database structure as seen below consists of four tables(with additional views): orders, customers, geo_lookup, order_status, with a total row count of 108,127 records.</h4>
 <div align="center">
-  <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/ERP%20Diagram.png">
+  <img width="600"  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/ERP%20Diagram.png">
 </div>
-<h1 align="center">Complete Analysis</h1>
+<h1 align="center">Executive Dashboard</h1>
+          <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Dashboard.png">
 <table align="center">
   <tr>
     <h1 align="center">Sales Trend</h1>
