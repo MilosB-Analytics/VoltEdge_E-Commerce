@@ -150,3 +150,158 @@
     </td>
   </tr>
 </table>
+<table align="center">
+  <tr>
+     <h1 align="center">Product Performance</h1>
+      <div align="center">
+        <h3>Spike in Product Sales Occurred in 2020 however it was not Sustained at High Levels</h3>
+        <img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Product%20Perfomance.png" />
+      </div>
+    <tr>
+  </tr>
+</table>
+<table aign="center">
+  <tr>
+      <td width="500" valign="top">
+      <h3>High and Low Performers</h3>
+      <ul>
+        <li>Top Revenue Contributor: The 27-inch 4K Gaming Monitor consistently delivered strong year-over-year performance, generating <strong>$9.85M</strong> in total revenue, making it the highest-grossing product.</li>
+        <li>Secondary High Performers: The Apple AirPods Headphones <strong>($7.74M)</strong> and MacBook Air Laptop <strong>($6.30M)</strong> ranked second and third, respectively, reflecting sustained demand for premium consumer electronics.</li>
+        <li>Underperforming Products: Bose SoundSport Headphones generated <strong>$3.3K</strong> in total revenue and recorded no sales in multiple months, indicating either extremely limited demand, availability constraints, or potential data-quality or product lifecycle issues.</li>
+        <li>Unexpected Low Performer: Despite typically strong market demand, the Apple iPhone ranked among the lowest revenue contributors, with <strong>$213K</strong> in total sales, suggesting possible pricing, availability, or channel-specific constraints. </li>
+      </ul>
+      </td>
+  <td width="500" valign="top">
+      <h3>AOV Lifecycle</h3>
+      <ul>
+        <li>Peak and Decline: AOV peaked in 2020 at $300.09, followed by a decline in 2021 ($254.56) and 2022 ($229.89), aligning with post-pandemic normalization trends.</li>
+        <li>High-Value Product Drivers: The MacBook Air Laptop ($1,591), ThinkPad Laptop ($1,101), and Apple iPhone ($741) contribute most significantly to AOV due to their higher price points. </li>
+        <li>Low-Value, High-Stability Products: Items such as the Samsung Charging Cable Pack ($20.20) and Samsung Webcam ($50.43) exhibit stable sales but have minimal impact on overall AOV due to their low average prices.</li>
+        <li>Underlying AOV Trend: While AOV is trending downward, the decline appears to be driven primarily by reduced contribution from higher-priced products, rather than broad pricing changes across the product portfolio.</li>
+      </ul>
+      </td>
+    
+</tr>
+</table>
+<table align="center">
+    <tr align="center">
+      <td width="1000" valign="top">
+      <h3>Average Order Value Trends (2019-2022)</h3>
+      <img width="450" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Product%20Yearly.png">
+    </td>
+    <td width="1000">
+      <h3>Sales Funnel by Product</h3>
+      <img width="450" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Sales%20Funnel.png">
+    </td>
+  </tr>
+</table>
+</table>
+
+<table align="center">
+  <tr>
+    <h1 align="center">Loyalty Program Learnings</h1>
+    <table align="center">
+    <tr align="center">
+      <td width="1000">
+      <h3>Average Order Value by Loyalty Status</h3>
+      <img width="450" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Loyalty%20AOV.png">
+    </td>
+    <td width="1000">
+      <h3>Number of Orders by Loyalty Status</h3>
+      <img width="450" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Loyalty%20Order%20Count1.png">
+    </td>
+  </tr>
+</table>
+    <table>
+      <tr>
+        <td>
+          <ul>
+            <li><strong>Sustained Performance Among Loyalty Members:</strong> Loyalty members maintained strong performance beyond the pandemic surge, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% over the same period. Loyalty members continued purchasing higher-priced products and placing more frequent orders post-pandemic, up until August 2022.</li>
+            <br>
+            <li><strong>Declining Performance Among Non-Loyalty Members:</strong> In contrast, non-loyalty members failed to sustain growth beyond the pandemic period. Sales revenue declined from $3.4M in 2019 to $2.2M in 2022, accompanied by an 8% decrease in AOV.</li>
+            <br>
+            <li><strong>2022 Spending Gap:</strong> In 2022, loyalty members spent nearly $31 more per order on average than non-loyalty members ($245 vs. $214). Loyalty-member AOV increased modestly year over year (+1.1% vs. 2021), while non-loyalty member AOV declined sharply (–18.7%).</li>
+            <li>Order Behavior Differences: Loyalty members outspent non-loyalty members on returning orders by nearly $60, while non-loyalty members historically spent more on their first VoltEdge orders.</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </tr>
+</table>
+<table align="center">
+  <h1 align="center">Refund Rates</h1>
+  <tr>
+    <td width="500">
+       <div valign="top" align="center">
+      <h3>Refund Rate per Product Type</h3>
+      <img alt="Refund heat map of products" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Yearly%20Refund%20Rate%20by%20Product.png" />
+    </div>
+    </td>
+    <td valign="top" width="500">
+      <ul>
+        <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
+        <li>Coincidentally, these two items have the highest AOV and are TechSphere's most expensive products.</li>
+        <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
+        <li>However, the Bose SoundSport Headphones are the least frequently purchased product, and the Samsung Charging Cable Pack ranks in the bottom half of purchase orders.</li>
+        <li>For 2022, there were no recorded returns for any product.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <h1 align="center">Regional Performance</h1>
+      <div align="center">
+        <img width="1000" alt="Sales by region" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Regional%20Performance.png" />
+      </div>
+  <tr valign="top">
+     <td width="900">
+      <ul>
+        <li>North America as the Primary Revenue Driver:</li>
+          <ul>
+            <li>North America is the strongest performing region across VoltEdge’s product portfolio, contributing an average of 52% of total sales per product, with $2.7M in revenue in 2022.</li>
+          </ul>
+        <li>Underperformance in Latin America:</li>
+          <ul>
+            <li>In contrast, the Latin American region underperforms significantly, with each product contributing an average of only 6% of total sales, totaling approximately $256K in 2022.</li>
+          </ul>
+        <li>Product-Level Regional Concentration:</li>
+          <ul>
+            <li>The Samsung Webcam achieves its highest sales concentration in North America, where 58% of its total sales are generated.</li>
+          </ul>
+        <li>Top Product Across Regions:</li>
+          <ul>
+            <li>The 27-inch 4K Gaming Monitor is the most popular product overall, accounting for 35% of total product sales across regions.</li>
+          </ul>
+        <li>Lowest Performing Product:</li>
+          <ul>
+            <li>The Bose SoundSport Headphones remain the weakest performer, with sales contributing close to 0% across regions, indicating minimal demand or potential product lifecycle issues.</li>
+          </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+    <h1>Recommended Next Steps</h1>
+    <h4>Below are actionable items recommended for VoltEdge based on findings from this project analysis.</h4>
+      <ul>
+        <h3>Sales Performance: </h3>
+        <li><strong>Mitigate Seasonal Sales Drops:</strong> Strengthen marketing and promotional efforts during historically weak periods (January and February) to counter recurring seasonal declines. January and February have averaged –12% and –23% year-over-year                    sales growth, respectively.</li>
+        <li><strong>Rebuild Post-Pandemic Demand:</strong> Implement targeted reactivation campaigns for returning customers to address sustained post-pandemic softness. Average year-over-year sales growth has declined by –28%, alongside a –17% drop in order volume,                  indicating demand-side weakness rather than pricing issues.</li>
+        <li><strong>Reassess Q4 Strategy:</strong>Post-pandemic Q4 performance has averaged –17% year-over-year growth, suggesting the need to reevaluate holiday promotions, campaign timing, and offer effectiveness.</li>
+      <h3>Product Strategy</h3>
+        <li><strong>Prioritize High-Performing Products:</strong> Optimize inventory and promotional focus around consistently strong products such as the 27-inch 4K Gaming Monitor (nearly $10M in sales over four years) and Apple AirPods (approximately $8M over the same period). </li>
+        <li><strong>Deprioritize Low-Performing SKUs:</strong> Reduce inventory exposure and reassess the role of underperforming products such as Bose SoundSport Headphones and Apple iPhone, which account for negligible purchase volume.</li>
+        <li><strong>Investigate Product Mix Imbalance:</strong> While MacBook Air Laptops rank third in total revenue (22% of sales), they represent only 3.7% of total orders, indicating high price points, potential accessibility barriers, or demand constraints.</li>
+        <h3>Loyalty Program</h3>
+        <li><strong>Expand Loyalty Program Investment:</strong> Continue prioritizing the loyalty program as a stabilizing revenue lever. Loyalty members demonstrated 18% AOV growth from 2019 to 2022 and spent an average of $31 more per order than non-loyalty members in 2022.</li>
+        <li><strong>Target High-Value Products Through Loyalty:</strong> Introduce loyalty-exclusive incentives for MacBook Air Laptops, as loyalty members align closely with the ideal customer profile—higher spenders, repeat purchasers, and lower return rates.</li>
+        <h3>Refund Rates & Product Quality</h3>
+        <li><strong>Improve Quality Controls for High-AOV Products:</strong> Strengthen quality assurance and post-purchase support for high-value products, which exhibit higher return rates. MacBook Air and ThinkPad Laptops both averaged 14% return rates between 2019 and 2021.</li>
+        <li><strong>Reduce Return-Driven Revenue Leakage:</strong> Addressing returns on premium products presents a direct opportunity to protect revenue and improve customer satisfaction without increasing acquisition costs.</li>
+        <h3>Regional Strategy</h3>
+        <li><strong>Defend Core Market Strength:</strong> Continue maximizing market share in North America, which accounts for 52% of total product sales, through sustained investment in high-performing products and channels.</li>
+        <li><strong>Accelerate Growth in Underperforming Regions:</strong> Expand localized offerings, partnerships, and distribution strategies in Latin America, where products currently account for only 6% of total sales, indicating untapped demand rather than market saturation.</li>
+        <li><strong>Align Regional Assortment With Demand:</strong> Maintain focus on high-demand products such as the 27-inch 4K Gaming Monitor and Apple AirPods, which consistently outperform across regions.</li>
+      </ul>
+</table>
