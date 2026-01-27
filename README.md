@@ -29,7 +29,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Total Revenye Analysis (2019–2022)</h3>
       <div align="center">
-        <img width="100%" height="400px" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Total%20Sales.png" />
+        <img width="100%" height="400px" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Total%20Sales%20v3.png" />
       </div>
       <br>
       <td width="460" valign="top">
@@ -83,13 +83,13 @@
   <tr>
     <h1 align="center">Sales Trend</h1>
     <td width="1000">
-      <img width="300" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Total%20Revenue1.png">
+      <img width="300" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Total%20Revenue%20v2.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/AOV1.png">
+      <img width="300" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/AOV%20v2.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Order%20Count1.png">
+      <img width="300" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Order%20Count%20v3.png">
     </td>
   </tr>
 </table>
@@ -204,11 +204,11 @@
     <tr align="center">
       <td width="1000">
       <h3>Average Order Value by Loyalty Status</h3>
-      <img width="450" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Loyalty%20AOV.png">
+      <img width="430" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Loyalty%20AOV%20v2.png">
     </td>
     <td width="1000">
       <h3>Number of Orders by Loyalty Status</h3>
-      <img width="450" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Loyalty%20Order%20Count1.png">
+      <img width="450" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Loyalty%20Order%20Count%20v2.png">
     </td>
   </tr>
 </table>
