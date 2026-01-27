@@ -79,7 +79,7 @@
   <img width="600"  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/ERP%20Diagram.png">
 </div>
 <h1 align="center">Executive Dashboard</h1>
-          <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Dashboard.png">
+          <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Dashboard%20v2.png">
 <table align="center">
   <tr>
     <h1 align="center">Sales Trend</h1>
