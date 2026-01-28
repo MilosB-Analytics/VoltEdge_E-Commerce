@@ -1,8 +1,8 @@
 -- Database creation
 
-CREATE DATABASE Techway_Ecommerce;
+CREATE DATABASE VoltEdge_Ecommerce;
 
-USE Techway_Ecommerce;
+USE VoltEdge_Ecommerce;
 
 -- Creating all the necessary tables to import raw data
 CREATE TABLE customers (
@@ -65,7 +65,7 @@ SELECT *
 FROM customers
 LIMIT 0, 1000000;
 
--- Transfering data to a staging enviroment so that we do not work on raw data in case we need a backup
+-- Transferring  data to a staging environment  so that we do not work on raw data in case we need a backup
 -- Creating a staging table
 
 CREATE TABLE customers_staging (
