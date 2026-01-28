@@ -79,6 +79,7 @@
   <img width="600"  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/ERP%20Diagram.png">
 </div>
 <h1 align="center">Executive Dashboard</h1>
+        <h4>A centralized sales intelligence dashboard designed to highlight performance trends, anomalies, and growth opportunities at a glance.</h4>
           <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Dashboard%20v2.png">
 <table align="center">
   <tr>
