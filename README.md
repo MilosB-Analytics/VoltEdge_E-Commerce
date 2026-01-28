@@ -27,7 +27,7 @@
   <tr>
     <div width="920">
       <h1 align="center">Executive Summary</h1>
-      <h3 align="center">Total Revenye Analysis (2019–2022)</h3>
+      <h3 align="center">Total Revenue Analysis (2019–2022)</h3>
       <div align="center">
         <img width="100%" height="400px" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Total%20Sales%20v3.png" />
       </div>
@@ -39,7 +39,7 @@
             <ul>
               <li>The strongest year by far was 2020 with a total of over <strong>$10.1M</strong>. As a result of the COVID-19 pandemic we can observe a steady quarterly revenue increase.</li>
               <li>The best performing period is Q4 2020 with a total of more than <strong>$1.25M</strong> in December.</li>
-              <li>A meaningful drop in revenue occurrs in Q2 2021 afterwhich the sales trend remains steady approximately around <strong>$2.2M</strong> until the beggining of 2022, this would be the breaking point where we can see a constant downward trend. </li>
+              <li>A meaningful drop in revenue occurs  in Q2 2021  after which  the sales trend remains steady approximately around <strong>$2.2M</strong> until the beginning  of 2022, this would be the breaking point where we can see a constant downward trend. </li>
             </ul>
           </li>
           <li>
@@ -57,7 +57,7 @@
             <strong>Quarterly Trends & Insights</strong>
             <ul>
               <li>Historical performance shows that Q3 and Q4 consistently outperform other quarters, aligning with seasonal consumer demand and intensified marketing activity. During these peak periods, marketing channel utilization shifts notably, with Affiliate traffic emerging as the top contributor (26.6%), followed closely by Direct traffic (25.6%).</li>
-              <li>The start of 2022 had above average sales with January($705), however the rest of 2022 had a continual decline in revenue with Q1 & Q2 maintaining relatevly close to the average. From Q3 onwards the revenue drastically droped.</li>
+              <li>The start of 2022 had above average sales with January($705), however the rest of 2022 had a continual decline in revenue with Q1 & Q2 maintaining relatively   close to the average. From Q3 onwards the revenue drastically dropped.</li>
             </ul>
           </li>
           <li>
@@ -73,7 +73,7 @@
     </div>
   </tr>
 </table>
-<h2 align="center">Entitiy Relationship Diagram - ERD</h2>
+<h2 align="center">Entity Relationship Diagram - ERD</h2>
 <h4>The database structure as seen below consists of four tables(with additional views): orders, customers, geo_lookup, order_status, with a total row count of 108,127 records.</h4>
 <div align="center">
   <img width="600"  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/ERP%20Diagram.png">
@@ -110,11 +110,11 @@
             <li>2022 Decline: A consistent reduction in sales across <strong>all quarters</strong> indicates a post-pandemic correction, likely influenced by inflationary pressures, reduced consumer spending, and increased market competition. </li>
           </ul>
         </li>
-        <li>Substantional Growth Reduction Throughout 2022 – Indications of Weakened Demand<ul>
+        <li>Substantial  Growth Reduction Throughout 2022 – Indications of Weakened Demand<ul>
             <li>Overall Trend: Each quarter in 2022 exhibited a sequential decline in revenue.</li>
             <li>Q1: Opened relatively strong (January revenue of $704K) but underperformed compared to 2021 levels.</li>
             <li>Q2–Q3: Revenue declined further, falling below $500K per month and continuing downward through Q3, with August and September dropping below $400K.</li>
-            <li>Q4: Reached a historical low, signaling significant demand contraction and potential challenges related to customer retention, pricing strategy, or product-market fit. VoltEdge should consider adapting the company's marketing stratergy.</li>
+            <li>Q4: Reached a historical low, signaling significant demand contraction and potential challenges related to customer retention, pricing strategy, or product-market fit. VoltEdge should consider adapting the company's marketing strategy</li>
           </ul>
         </li>
       </ol>
@@ -124,7 +124,7 @@
             <li>
               Average order value increased sharply during the pandemic, <strong>peaking at $322 in October 2020</strong>, compared to $246 in November 2019, reflecting a shift toward higher-value online purchases.
             </li>
-            <li>Post-Pandemic Normalization (2021–2022): Following the 2020 peak, AOV declined steadily, with 2022 levels ($234–$237) returning close to pre-pandemic benchmarks..</li>
+            <li>Post-Pandemic Normalization (2021–2022): Following the 2020 peak, AOV declined steadily, with 2022 levels ($234–$237) returning close to pre-pandemic benchmarks.</li>
           </ul>
         </li>
         <li>Increased Volatility in 2022: <ul>
@@ -241,7 +241,7 @@
     <td valign="top" width="500">
       <ul>
         <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
-        <li>Coincidentally, these two items have the highest AOV and are TechSphere's most expensive products.</li>
+        <li>Coincidentally, these two items have the highest AOV and are VoltEdge's most expensive products.</li>
         <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
         <li>However, the Bose SoundSport Headphones are the least frequently purchased product, and the Samsung Charging Cable Pack ranks in the bottom half of purchase orders.</li>
         <li>For 2022, there were no recorded returns for any product.</li>
@@ -289,7 +289,7 @@
         <h3>Sales Performance: </h3>
         <li><strong>Mitigate Seasonal Sales Drops:</strong> Strengthen marketing and promotional efforts during historically weak periods (January and February) to counter recurring seasonal declines. January and February have averaged –12% and –23% year-over-year                    sales growth, respectively.</li>
         <li><strong>Rebuild Post-Pandemic Demand:</strong> Implement targeted reactivation campaigns for returning customers to address sustained post-pandemic softness. Average year-over-year sales growth has declined by –28%, alongside a –17% drop in order volume,                  indicating demand-side weakness rather than pricing issues.</li>
-        <li><strong>Reassess Q4 Strategy:</strong>Post-pandemic Q4 performance has averaged –17% year-over-year growth, suggesting the need to reevaluate holiday promotions, campaign timing, and offer effectiveness.</li>
+        <li><strong>Reassess Q4 Strategy: </strong>Post-pandemic Q4 performance has averaged –17% year-over-year growth, suggesting the need to reevaluate holiday promotions, campaign timing, and offer effectiveness.</li>
       <h3>Product Strategy</h3>
         <li><strong>Prioritize High-Performing Products:</strong> Optimize inventory and promotional focus around consistently strong products such as the 27-inch 4K Gaming Monitor (nearly $10M in sales over four years) and Apple AirPods (approximately $8M over the same period). </li>
         <li><strong>Deprioritize Low-Performing SKUs:</strong> Reduce inventory exposure and reassess the role of underperforming products such as Bose SoundSport Headphones and Apple iPhone, which account for negligible purchase volume.</li>
