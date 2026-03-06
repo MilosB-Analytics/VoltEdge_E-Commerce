@@ -76,7 +76,7 @@
 <h2 align="center">Entity Relationship Diagram - ERD</h2>
 <h4>The database structure as seen below consists of four tables(with additional views): orders, customers, geo_lookup, order_status, with a total row count of 108,127 records.</h4>
 <div align="center">
-  <img width="600"  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/ERP%20Diagram.png">
+  <img width="600"  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/ERD%20Diagram.png">
 </div>
 <h1 align="center">Executive Dashboard</h1>
         <h4>A centralized sales intelligence dashboard designed to highlight performance trends, anomalies, and growth opportunities at a glance.</h4>
