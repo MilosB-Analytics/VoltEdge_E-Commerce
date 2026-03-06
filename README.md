@@ -80,7 +80,7 @@
 </div>
 <h1 align="center">Executive Dashboard</h1>
         <h4>A centralized sales intelligence dashboard designed to highlight performance trends, anomalies, and growth opportunities at a glance.</h4>
-          <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Dashboard%20v2.png">
+          <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/VoltEdge/Dashboard.png">
 <table align="center">
   <tr>
     <h1 align="center">Sales Trend</h1>
